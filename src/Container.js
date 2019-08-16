@@ -1,7 +1,7 @@
 import React from 'react'
 import List from './ListComponent' 
 function App() {
-    let name="Omar"
+    let name="Manel"
     return (
         <div>
         <h1>Hello {name}</h1>
